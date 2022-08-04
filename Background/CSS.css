@@ -1,6 +1,6 @@
 
 
-        .div {
+        div {
             width: 80%;
             margin: 0 auto;
             height: 100px;
@@ -16,7 +16,8 @@
 
         .bgposition {
             height: 350px;
-            background: url("loco.jpg") #820004 no-repeat left;
+            background: url("logo-telkom.png") #820004 no-repeat left;
+            background-size: 220px;
             
 
         }
